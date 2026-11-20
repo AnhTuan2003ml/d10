@@ -18,3 +18,9 @@
 - `submission/r3007/review_log.csv`: 11 quyết định review có mô tả bằng chứng quan sát.
 - `submission/r3007/errors.json`: kết quả cuối có các lỗi Detection–Panoptic đã xác nhận.
 - `submission/REPORT.md`: số liệu, ngưỡng và giải thích ảnh hưởng của false positive tới F1.
+
+## Đề ẩn `de_an_12`
+
+- Chạy đối chiếu trên release `lab250_262995d8ee10`, tạo 14 ứng viên và review trực quan toàn bộ 14 ảnh.
+- Xác nhận 7 `instance_merge`, 1 `missing_box`, 1 `bbox_drift`, 2 `class_swap` và 3 `category_swap`.
+- Đầu ra: `submission/de_an/candidates.json` và `submission/de_an/review_log.csv`.
