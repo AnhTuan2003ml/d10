@@ -10,8 +10,7 @@
 | Họ và tên | MSHV | Tài khoản GitHub | Phần chính |
 |---|---|---|---|
 | Nguyễn Thanh Phong | 2A202603119 | Tphong27  | P1: Validator lỗi luật |
-| Phạm Anh Tuấn | 2A202603232 |AnhTuan2003ml 
-| P2: Detection–Panoptic, review |
+| Phạm Anh Tuấn | 2A202603232 | AnhTuan2003ml | P2: Detection–Panoptic, review |
 | Lương Văn Quyến | 2A202603226 | VanQuyen11 | P0, P3: Leader, Release/Hold, lineage |
 | Huỳnh Ngọc Gia Hân | 2A202603128 | suadaunanh | P4: Bàn giao dataset v2 |
 | Nguyễn Nhật Minh | 2A202603210 | nminnnnn| P5, P6: Truy vết, bảo mật, đề ẩn |
