@@ -16,6 +16,11 @@
 - `submission/r3007/trace.json`: kết quả `tier_a`, `tier_b` và `notify`.
 - `submission/r3007/security.md`: tài liệu bảo mật ba phần.
 
+## Đề ẩn `de_an_12`
+
+- Truy vết ticket lớp `dog` theo guideline của job cho release `lab250_262995d8ee10`.
+- Xác định `tier_a` gồm 2 ảnh, `tier_b` gồm 4 ảnh và `notify` gồm 3 mã người trong `submission/de_an/trace.json`.
+
 ## Trạng thái đề ẩn
 
-Thư mục `submission/de_an/` chưa có trong trạng thái repository hiện tại, nên hồ sơ không ghi nhận đầu ra đề ẩn chưa tồn tại.
+Đã hoàn thành `submission/de_an/` với errors, candidates, review log và trace.
