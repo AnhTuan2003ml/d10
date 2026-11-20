@@ -1,0 +1,12 @@
+image,type,verdict,note
+000000007108,instance_merge,confirmed,"mở ảnh: hai con voi đứng sát nhau cạnh voi con phía trước bị panoptic gộp chung một segment elephant"
+000000007511,missing_box,confirmed,"mở ảnh: người mặc áo đen thả diều ở góc dưới phải bãi biển rất rõ nhưng thiếu box detection"
+000000009483,class_swap,confirmed,"mở ảnh: màn hình máy tính đặt trên bàn bên phải, detection ghi sai là laptop còn panoptic ghi tv đúng"
+000000013291,instance_merge,confirmed,"mở ảnh: bốn người cầm đĩa ném, hai chiếc frisbee ở giữa đặt sát nhau bị panoptic gộp chung một segment"
+000000013291,bbox_drift,rejected,"lệch IoU do segment panoptic bị gộp hai đĩa ném, box detection khớp đúng từng đĩa riêng"
+000000016010,instance_merge,confirmed,"mở ảnh: hai con ngựa vằn đứng sát chồng lên nhau trên đồng cỏ bị panoptic gộp thành một segment zebra"
+000000017182,instance_merge,confirmed,"mở ảnh: năm quyển sách bìa xanh xếp sát trên bàn trước bảng đen bị panoptic gộp chung một segment book"
+000000017627,instance_merge,confirmed,"mở ảnh: các xe hơi đỗ sát nhau ở bãi đỗ ngoài trời bị panoptic gộp hai xe thành một segment car"
+000000019742,category_swap,confirmed,"mở ảnh: bình hoa thủy tinh đỏ đặt trên kệ, detection ghi vase đúng còn panoptic ghi sai là baseball bat"
+000000023272,class_swap,confirmed,"mở ảnh: xe hơi Mercedes đen có mèo nằm trên nắp capo, detection ghi sai là bus còn panoptic ghi car đúng"
+000000023781,category_swap,confirmed,"mở ảnh: bó củ cà rốt cam nằm cạnh rau củ, detection ghi carrot đúng còn panoptic ghi sai là motorcycle"

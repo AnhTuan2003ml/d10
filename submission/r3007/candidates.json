@@ -1,0 +1,54 @@
+{
+  "candidates": [
+    {
+      "image": "000000007108",
+      "type": "instance_merge",
+      "detail": "segment 3162214 (elephant) covers multiple boxes"
+    },
+    {
+      "image": "000000007511",
+      "type": "missing_box",
+      "detail": "pan=person area=14530"
+    },
+    {
+      "image": "000000009483",
+      "type": "class_swap",
+      "detail": "det=laptop vs pan=tv (iou=0.99, cov=1.00)"
+    },
+    {
+      "image": "000000013291",
+      "type": "instance_merge",
+      "detail": "segment 13419440 (frisbee) covers multiple boxes"
+    },
+    {
+      "image": "000000016010",
+      "type": "instance_merge",
+      "detail": "segment 4739410 (zebra) covers multiple boxes"
+    },
+    {
+      "image": "000000017182",
+      "type": "instance_merge",
+      "detail": "segment 3944728 (book) covers multiple boxes"
+    },
+    {
+      "image": "000000017627",
+      "type": "instance_merge",
+      "detail": "segment 8553344 (car) covers multiple boxes"
+    },
+    {
+      "image": "000000019742",
+      "type": "class_swap",
+      "detail": "det=vase vs pan=baseball bat (iou=0.99, cov=1.00)"
+    },
+    {
+      "image": "000000023272",
+      "type": "class_swap",
+      "detail": "det=bus vs pan=car (iou=1.00, cov=1.00)"
+    },
+    {
+      "image": "000000023781",
+      "type": "class_swap",
+      "detail": "det=carrot vs pan=motorcycle (iou=0.99, cov=1.00)"
+    }
+  ]
+}
