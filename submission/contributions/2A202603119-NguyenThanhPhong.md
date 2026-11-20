@@ -15,3 +15,8 @@
 - `validator/validate.py`: logic kiểm tra lỗi luật và giao diện dòng lệnh.
 - `submission/r3007/errors.json`: 21 lỗi cuối của seed `3007`.
 - `submission/REPORT.md`: số liệu F1 lỗi luật và kết quả kiểm tra lô sạch.
+
+## Đề ẩn `de_an_12`
+
+- Validator phát hiện 11 lỗi luật trong release `lab250_262995d8ee10`, gồm lỗi file, hash, class, box, guideline, scene và panoptic overlap.
+- Kết quả sau khi gộp 14 review đã xác nhận gồm 25 lỗi trong `submission/de_an/errors.json`.
